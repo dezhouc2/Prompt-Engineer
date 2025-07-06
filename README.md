@@ -10,7 +10,8 @@
 
 ## Chain-of-Verification Reduces Hallucination in Large Language Models
    https://arxiv.org/pdf/2309.11495
-   Step 1: 初始响应生成
+   
+   #Step 1: 初始响应生成
     模型直接回答用户问题（可能含幻觉）。
     
     Step 2: 生成验证问题
