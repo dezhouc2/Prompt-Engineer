@@ -26,3 +26,6 @@
   
   Step 4: 对比并修正答案
   将验证结果与初始回答比对，自动修正矛盾点（如修正年份错误）
+
+## Scaling Instruction-Finetuned Language Models
+  https://arxiv.org/abs/2210.11416
